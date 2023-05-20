@@ -1,0 +1,22 @@
+.bg-c
+{
+ background-color: #0f0f11; 
+}
+body {
+  padding-top: 65px;
+  background-color: #f9f9f9;
+}
+.hfg {
+  font-family: 'Roboto Slab', serif;
+}
+.cf {
+   font-family: 'Ubuntu', sans-serif;
+   color : red;
+}
+.uf {
+   font-family: 'Ubuntu', sans-serif;
+}
+.hbb {
+font-family: 'Orbitron', sans-serif;
+ font-size:  18px;
+}

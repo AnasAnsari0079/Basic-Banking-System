@@ -1,0 +1,42 @@
+.bg-c
+{
+ background-color: #0f0f11; 
+}
+body {
+  background-color: #f9f9f9;
+}
+#myBtn {
+  display: none; 
+  position: fixed; 
+  bottom: 20px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: #cecece; 
+  color: white; 
+  cursor: pointer; 
+  padding: 10px; 
+  border-radius:10px; 
+  font-size: 20px; 
+}
+
+#myBtn:hover {
+  background-color:#3a3a3a; 
+}
+
+.hfg {
+  font-family: 'Roboto Slab', serif;
+}
+.hbb {
+ font-family: 'Ubuntu', sans-serif;
+ font-size:  18px;
+}
+.p {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 38px;
+  color: white;
+}
+.cf {
+   font-family: 'Ubuntu', sans-serif;
+}
